@@ -28,7 +28,8 @@ Instructions on setting up Awesome Miner to mine the OID Coin
       
       * Add Server URL:  `OidPool.com:3008`
       
-      * Add worker name:  `'YOUR OID WALLET ADDRESS'.workername` (ie. D5HFbWFNAo3iePDTxtTmzmKLdnssdap7B7.workername)
+      * Add worker name:  `'YOUR OID WALLET ADDRESS'.workername` 
+      (ie. D5HFbWFNAo3iePDTxtTmzmKLdnssdap7B7.workername)
       
       * Add worker password:  `x`
       

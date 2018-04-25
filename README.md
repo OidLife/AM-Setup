@@ -4,21 +4,21 @@ Instructions on setting up Awesome Miner to mine the OID Coin
 ### To add the OID Coin to Awesome Miner:
 1) Go to the options tab in the toolbar.
 
-2) Select `Coins & Profit`
+    * Select `Coins & Profit`
 
-3) Click add:
+    * Click add:
   
-    * Name Coin
+      * Name Coin
     
-    * Change the algorithm to Scrypt
+      * Change the algorithm to Scrypt
     
-    * Click ok (the coin is now added)
+      * Click ok (the coin is now added)
     
-    *(Leave the Optional section blank as this changes)*
+      *(Leave the Optional section blank as this changes)*
     
 #### Next, add the mining pool:
 
-4) While still in the options window:
+2) While still in the options window:
 
     * Select `Pools`
     

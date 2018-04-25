@@ -18,21 +18,26 @@ Instructions on setting up Awesome Miner to mine the OID Coin
     
 #### Next, add the mining pool:
 
-2) While still in the options window:
+2) Go back to the options window:
 
     * Select `Pools`
     
     * Click add:
     
-      * Fill in the Description. (ex. OID Pool)
+      * Fill in the Description. (ie. OID Pool)
       
       * Add Server URL:  `OidPool.com:3008`
       
-      * Add worker name:  `'YOUR WALLET ADDRESS'.Name`
+      * Add worker name:  `'YOUR OID WALLET ADDRESS'.workername` (ie. D5HFbWFNAo3iePDTxtTmzmKLdnssdap7B7.workername)
       
       * Add worker password:  `x`
       
       * Select Coin:  OID
       
-      * Wallet Address:  'YOUR WALLET ADDRESS'
+      * Wallet Address:  'YOUR OID WALLET ADDRESS' (ie. D5HFbWFNAo3iePDTxtTmzmKLdnssdap7B7)
       
+Now you should be able to point your miner at our coin and our pool.
+
+Thank you,
+
+OID Team

@@ -42,4 +42,4 @@ Now you should be able to point your miner at our coin and our pool.
 
 Thank you,
 
-OID Team
+[OID Team](https://oid.life/)

@@ -26,7 +26,7 @@ Instructions on setting up Awesome Miner to mine the OID Coin
     
       * Fill in the Description. (ie. OID Pool)
       
-      * Add Server URL:  `OidPool.com:3008`
+      * Add Server URL:  `OidMiningPool.com:3008`
       
       * Worker name:  *LEAVE EMPTY* 
       
